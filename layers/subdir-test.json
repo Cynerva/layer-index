@@ -1,0 +1,7 @@
+{
+  "id": "subdir-test",
+  "name": "subdir-test",
+  "repo": "https://github.com/Cynerva/layer-subdir-test.git",
+  "subdir": "in/a/subdir",
+  "summary": "Silly layer for testing a charmtools feature"
+}
